@@ -126,3 +126,13 @@
 # print(total)
 
 #
+
+#3.
+# a="387$12.45f" #find sum of all numbers in string
+# total=0
+# for i in a:
+#     if i.isnumeric():
+#         total=total+int(i)
+# print(total)
+
+#
